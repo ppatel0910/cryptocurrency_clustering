@@ -8,3 +8,14 @@
 ## You’ll combine your financial Python programming skills with the new unsupervised learning skills that you acquired in this module.
 
 ## You’ll create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. You’ll then plot the results so that you can visually show the performance to the board.
+
+# Methodology:
+
+1. Import the data
+2. Prepare the data
+3. Find the best value for k by using the original data
+4. Cluster crytocurrencies with K-means by using the original data
+5. Optimiza the clusters with principal component analysis
+6. Find the best value for k using the PCA data
+7. Cluster the crytocurrencies with K-means by using the PCA data
+8. Visualize and compare the results
