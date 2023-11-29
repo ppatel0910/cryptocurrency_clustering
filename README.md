@@ -13,9 +13,9 @@
 
 1. Import the data
 2. Prepare the data
-3. Find the best value for k by using the original data
-4. Cluster crytocurrencies with K-means by using the original data
-5. Optimiza the clusters with principal component analysis
+3. Find the best value for k using the original data
+4. Cluster crytocurrencies with K-means using the original data
+5. Optimize the clusters with principal component analysis
 6. Find the best value for k using the PCA data
-7. Cluster the crytocurrencies with K-means by using the PCA data
+7. Cluster the crytocurrencies with K-means using the PCA data
 8. Visualize and compare the results
